@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'thun888的服务器们',
+  SiteName: '海豚Webs',
 
   // 站点链接
   SiteUrl: 'http://stats.thun888.xyz',
@@ -14,7 +14,7 @@ window.Config = {
   ],
 
   // 是否显示监测站点的链接
-  ShowLink: false,
+  ShowLink: true,
 
   // 日志天数
   // 虽然免费版说仅保存60天日志，但测试好像API可以获取90天的
