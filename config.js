@@ -32,8 +32,8 @@ window.Config = {
       url: 'https://space.bilibili.com/451090261'
     },
     {
-      text: '附监控站',
-      url: 'http://server-9g1wx3kb731de358-1302025169.tcloudbaseapp.com'
+      text: 'Blog',
+      url: 'https://thun888.xyz'
     }
   ]
 };
